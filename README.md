@@ -3,7 +3,7 @@ This repository contains the author's implementation in PyTorch for the paper "n
 
 ## Environment Requirement
 
-The experiments were conducted on a single Tesla A40 GPU with 48GB memory. The required packages are as follows:
+The experiments were conducted on a hardware platform equipped with a NVIDIA RTX 4060Ti GPU and an Intel(R) Core(TM) i7-13700F CPU. The required packages are as follows:
 
 • python == 3.9.18
 

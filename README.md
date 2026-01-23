@@ -28,3 +28,5 @@ pyg_data/ contains the 3 datasets used in our paper, i.e., Cora, CiteSeer, PubMe
 'data_process.py' is the data processor that contains the dataset split and mask construction.
 
 'utils.py' contains some utility functions.
+
+We provide the commands with hyper-parameters for all datasets in 'run.sh'.

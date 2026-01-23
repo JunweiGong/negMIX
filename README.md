@@ -17,7 +17,7 @@ The experiments were conducted on a hardware platform equipped with a NVIDIA RTX
 
 ## Datasets
 
-pyg_data/ contains the 3 datasets used in our paper, i.e., Cora, CiteSeer, PubMed.
+pyg_data/ contains 3 datasets used in our paper, i.e., Cora, CiteSeer, PubMed.
 
 ## Code
 
@@ -29,4 +29,4 @@ pyg_data/ contains the 3 datasets used in our paper, i.e., Cora, CiteSeer, PubMe
 
 'utils.py' contains some utility functions.
 
-We provide the commands with hyper-parameters for all datasets in 'run.sh'.
+We provide commands with hyperparameters in the 'run.sh' file for all eight datasets used in our paper.

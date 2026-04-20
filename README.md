@@ -31,6 +31,6 @@ pyg_data/ contains 3 datasets used in our paper, i.e., Cora, CiteSeer, PubMed.
 
 We provide commands with hyperparameters in the 'run.sh' file for all eight datasets used in our paper.
 
-## Plese cite our paper as:
+## Please cite our paper as:
 
 Junwei Gong, Xiao Shen, Zhihao Chen, Shirui Pan, Xiao Wang, Xi Zhou. negMIX: Negative Mixup for OOD Generalization in Open-Set Node Classification. In Proceedings of the ACM Web Conference 2026 (WWW'26), pp. 707-718, 2026.
